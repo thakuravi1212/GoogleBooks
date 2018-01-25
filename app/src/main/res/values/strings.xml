@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="book_description">This book provides a thorough review of the Android platform including supported hardware devices, the structure of the Android development project and implementation of core services (wireless communication, data storage and other low.</string>
+    <string name="empty_list_text">No books found.</string>
+    <string name="empty_list_first_search">Welcome! do your first search.</string>
+    <string name="no_internet">No internet connection available.</string>
+</resources>
